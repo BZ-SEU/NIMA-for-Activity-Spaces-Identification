@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/All_images" />
+      <excludeFolder url="file://$MODULE_DIR$/All_labels" />
+      <excludeFolder url="file://$MODULE_DIR$/application_file" />
+      <excludeFolder url="file://$MODULE_DIR$/dataset_split" />
+      <excludeFolder url="file://$MODULE_DIR$/predict_result" />
+      <excludeFolder url="file://$MODULE_DIR$/trained_models" />
+    </content>
+    <orderEntry type="jdk" jdkName="E:\Python_envs\env1" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

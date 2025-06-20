@@ -1,0 +1,6 @@
+python split_dataset.py --chunk individual-fitness-activities
+python train.py --chunk individual-fitness-activities
+python predict.py --chunk individual-fitness-activities
+python grad_cam_batch.py -- chunk individual-fitness-activities
+python application.py -- chunk individual-fitness-activities
+

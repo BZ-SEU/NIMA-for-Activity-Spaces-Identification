@@ -1,0 +1,315 @@
+Split the dataset: 2025-03-09 10:26:58
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-09 10:26:59
+Training begin Time: 2025-03-09 10:49:34
+Epoch 1/40 | Train Loss: 0.3293 | Val Loss: 0.3165.
+Split the dataset: 2025-03-09 13:34:51
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-09 13:34:53
+Epoch 1/40 | Train Loss: 0.3394 | Val Loss: 0.3259.
+Epoch 2/40 | Train Loss: 0.2981 | Val Loss: 0.2978.
+Epoch 3/40 | Train Loss: 0.2721 | Val Loss: 0.2721.
+Epoch 4/40 | Train Loss: 0.2415 | Val Loss: 0.2618.
+Epoch 5/40 | Train Loss: 0.2279 | Val Loss: 0.2729.
+Epoch 6/40 | Train Loss: 0.2108 | Val Loss: 0.2717.
+Epoch 7/40 | Train Loss: 0.1982 | Val Loss: 0.2643.
+Epoch 8/40 | Train Loss: 0.1766 | Val Loss: 0.2680.
+Epoch 9/40 | Train Loss: 0.1686 | Val Loss: 0.2679.
+Epoch 10/40 | Train Loss: 0.1500 | Val Loss: 0.2632.
+Epoch 11/40 | Train Loss: 0.1313 | Val Loss: 0.2672.
+Epoch 12/40 | Train Loss: 0.1045 | Val Loss: 0.2695.
+Epoch 13/40 | Train Loss: nan | Val Loss: nan.
+Saved best model with val loss: 0.2618
+Grad CAM finished.
+threshold_score_train=0.1574681136495075
+threshold_rank_train =96.0
+threshold_score_test =0.20375698482515253
+threshold_rank_test  =32.0
+
+Training begin Time: 2025-03-11 01:18:10
+Epoch 1/40 | Train Loss: 0.3404 | Val Loss: 0.3347.
+Epoch 2/40 | Train Loss: 0.3042 | Val Loss: 0.3005.
+Epoch 3/40 | Train Loss: 0.2761 | Val Loss: 0.2873.
+Epoch 4/40 | Train Loss: 0.2608 | Val Loss: 0.2863.
+Epoch 5/40 | Train Loss: 0.2434 | Val Loss: 0.2921.
+Epoch 6/40 | Train Loss: 0.2261 | Val Loss: 0.2916.
+Epoch 7/40 | Train Loss: 0.1987 | Val Loss: 0.2890.
+Epoch 8/40 | Train Loss: 0.1831 | Val Loss: 0.2949.
+Epoch 9/40 | Train Loss: 0.1672 | Val Loss: 0.2859.
+Epoch 10/40 | Train Loss: 0.1492 | Val Loss: 0.3025.
+Epoch 11/40 | Train Loss: 0.1397 | Val Loss: 0.3094.
+Epoch 12/40 | Train Loss: 0.1078 | Val Loss: 0.3056.
+Epoch 13/40 | Train Loss: 0.1111 | Val Loss: 0.3056.
+Epoch 14/40 | Train Loss: 0.0920 | Val Loss: 0.3198.
+Epoch 15/40 | Train Loss: 0.0951 | Val Loss: 0.3149.
+Epoch 16/40 | Train Loss: 0.0833 | Val Loss: 0.3038.
+Epoch 17/40 | Train Loss: nan | Val Loss: nan.
+Saved best model with val loss: 0.2859
+
+Now do the prediction: 2025-03-11 01:33:41
+[Test Set] Pearson Correlation: 0.6501 (p=2.8826e-15).
+
+Grad CAM finished.
+threshold_score_train=0.13388082043005892
+threshold_rank_train =72.60000000000014
+threshold_score_test =0.21229325395570858
+threshold_rank_test  =32.0
+
+Split the dataset: 2025-03-12 21:09:28
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-12 21:09:30
+Epoch 1/40 | Train Loss: 0.3351 | Val Loss: 0.3155.
+Epoch 2/40 | Train Loss: 0.2964 | Val Loss: 0.2826.
+Epoch 3/40 | Train Loss: 0.2678 | Val Loss: 0.2714.
+Epoch 4/40 | Train Loss: 0.2436 | Val Loss: 0.2635.
+Epoch 5/40 | Train Loss: 0.2256 | Val Loss: 0.2610.
+Epoch 6/40 | Train Loss: 0.2089 | Val Loss: 0.2475.
+Epoch 7/40 | Train Loss: 0.1878 | Val Loss: 0.2558.
+Epoch 8/40 | Train Loss: 0.1746 | Val Loss: 0.2548.
+Epoch 9/40 | Train Loss: 0.1406 | Val Loss: 0.2570.
+Epoch 10/40 | Train Loss: 0.1325 | Val Loss: 0.2631.
+Epoch 11/40 | Train Loss: 0.1358 | Val Loss: 0.2493.
+Epoch 12/40 | Train Loss: 0.1085 | Val Loss: 0.2505.
+Epoch 13/40 | Train Loss: 0.1025 | Val Loss: 0.2570.
+Epoch 14/40 | Train Loss: 0.0924 | Val Loss: 0.2557.
+Epoch 15/40 | Train Loss: 0.0785 | Val Loss: 0.2486.
+Epoch 16/40 | Train Loss: 0.0722 | Val Loss: 0.2514.
+Epoch 17/40 | Train Loss: 0.0878 | Val Loss: 0.2599.
+Epoch 18/40 | Train Loss: 0.0658 | Val Loss: 0.2597.
+Epoch 19/40 | Train Loss: 0.0543 | Val Loss: 0.2644.
+Epoch 20/40 | Train Loss: 0.0604 | Val Loss: 0.2570.
+Epoch 21/40 | Train Loss: 0.0427 | Val Loss: 0.2645.
+Epoch 22/40 | Train Loss: 0.0467 | Val Loss: 0.2706.
+Epoch 23/40 | Train Loss: nan | Val Loss: nan.
+Saved best model with val loss: 0.2475
+
+Now do the prediction: 2025-03-12 21:27:53
+[Test Set] Pearson Correlation: 0.7986 (p=6.8110e-27).
+
+Grad CAM finished.
+threshold_score_train=31.25052101340986
+threshold_rank_train =74.20000000000005
+threshold_score_test =31.42177766016667
+threshold_rank_test  =24.0
+
+Now do the prediction: 2025-03-12 23:07:30
+[Test Set] Pearson Correlation: 0.7859 (p=1.5020e-25).
+
+Grad CAM finished.
+threshold_score_train=0.13098921427242416
+threshold_rank_train =75.0
+threshold_score_test =0.1690435730087878
+threshold_rank_test  =25.0
+
+Split the dataset: 2025-03-17 07:17:14
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-17 07:17:17
+Epoch 1/40 | Train Loss: 0.3171 | Val Loss: 0.3119.
+Epoch 2/40 | Train Loss: 0.2763 | Val Loss: 0.2886.
+Epoch 3/40 | Train Loss: 0.2458 | Val Loss: 0.2693.
+Epoch 4/40 | Train Loss: 0.2275 | Val Loss: 0.2600.
+Epoch 5/40 | Train Loss: 0.2113 | Val Loss: 0.2566.
+Epoch 6/40 | Train Loss: 0.1851 | Val Loss: 0.2636.
+Epoch 7/40 | Train Loss: 0.1693 | Val Loss: 0.2568.
+Epoch 8/40 | Train Loss: 0.1569 | Val Loss: 0.2343.
+Epoch 9/40 | Train Loss: 0.1454 | Val Loss: 0.2458.
+Epoch 10/40 | Train Loss: 0.1269 | Val Loss: 0.2523.
+Epoch 11/40 | Train Loss: 0.1210 | Val Loss: 0.2499.
+Epoch 12/40 | Train Loss: 0.0955 | Val Loss: 0.2503.
+Epoch 13/40 | Train Loss: 0.0965 | Val Loss: 0.2522.
+Epoch 14/40 | Train Loss: 0.0828 | Val Loss: 0.2459.
+Epoch 15/40 | Train Loss: 0.0735 | Val Loss: 0.2284.
+Epoch 16/40 | Train Loss: 0.0690 | Val Loss: 0.2258.
+Epoch 17/40 | Train Loss: 0.0591 | Val Loss: 0.2532.
+Epoch 18/40 | Train Loss: 0.0602 | Val Loss: 0.2519.
+Epoch 19/40 | Train Loss: 0.0542 | Val Loss: 0.2416.
+Epoch 20/40 | Train Loss: 0.0558 | Val Loss: 0.2412.
+Epoch 21/40 | Train Loss: 0.0522 | Val Loss: 0.2340.
+Epoch 22/40 | Train Loss: 0.0509 | Val Loss: 0.2126.
+Epoch 23/40 | Train Loss: 0.0437 | Val Loss: 0.2297.
+Epoch 24/40 | Train Loss: 0.0398 | Val Loss: 0.2354.
+Epoch 25/40 | Train Loss: 0.0385 | Val Loss: 0.2332.
+Epoch 26/40 | Train Loss: 0.0349 | Val Loss: 0.2248.
+Epoch 27/40 | Train Loss: 0.0302 | Val Loss: 0.2414.
+Epoch 28/40 | Train Loss: 0.0274 | Val Loss: 0.2265.
+Epoch 29/40 | Train Loss: 0.0342 | Val Loss: 0.2317.
+Epoch 30/40 | Train Loss: 0.0325 | Val Loss: 0.2474.
+Epoch 31/40 | Train Loss: 0.0258 | Val Loss: 0.2385.
+Epoch 32/40 | Train Loss: 0.0230 | Val Loss: 0.2315.
+Epoch 33/40 | Train Loss: 0.0265 | Val Loss: 0.2361.
+Epoch 34/40 | Train Loss: 0.0195 | Val Loss: 0.2476.
+Epoch 35/40 | Train Loss: 0.0211 | Val Loss: 0.2420.
+Epoch 36/40 | Train Loss: 0.0213 | Val Loss: 0.2323.
+Epoch 37/40 | Train Loss: 0.0203 | Val Loss: 0.2543.
+Epoch 38/40 | Train Loss: 0.0216 | Val Loss: 0.2315.
+Epoch 39/40 | Train Loss: 0.0181 | Val Loss: 0.2232.
+Epoch 40/40 | Train Loss: 0.0255 | Val Loss: 0.2385.
+Saved best model with val loss: 0.2126
+
+Now do the prediction: 2025-03-17 07:48:34
+[Test Set] Pearson Correlation: 0.8200 (p=3.8001e-29).
+
+Split the dataset: 2025-03-17 07:48:35
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-17 07:48:37
+Epoch 1/40 | Train Loss: 0.3083 | Val Loss: 0.3090.
+Epoch 2/40 | Train Loss: 0.2657 | Val Loss: 0.2585.
+Epoch 3/40 | Train Loss: 0.2340 | Val Loss: 0.2481.
+Epoch 4/40 | Train Loss: 0.2118 | Val Loss: 0.2448.
+Epoch 5/40 | Train Loss: 0.1869 | Val Loss: 0.2318.
+Epoch 6/40 | Train Loss: 0.1607 | Val Loss: 0.2434.
+Epoch 7/40 | Train Loss: 0.1420 | Val Loss: 0.2390.
+Epoch 8/40 | Train Loss: 0.1264 | Val Loss: 0.2314.
+Epoch 9/40 | Train Loss: 0.1070 | Val Loss: 0.2355.
+Epoch 10/40 | Train Loss: 0.1013 | Val Loss: 0.2389.
+Epoch 11/40 | Train Loss: 0.1050 | Val Loss: 0.2433.
+Epoch 12/40 | Train Loss: 0.0864 | Val Loss: 0.2362.
+Epoch 13/40 | Train Loss: 0.0779 | Val Loss: 0.2303.
+Epoch 14/40 | Train Loss: 0.0757 | Val Loss: 0.2343.
+Epoch 15/40 | Train Loss: 0.0769 | Val Loss: 0.2353.
+Epoch 16/40 | Train Loss: 0.0653 | Val Loss: 0.2374.
+Epoch 17/40 | Train Loss: 0.0620 | Val Loss: 0.2405.
+Epoch 18/40 | Train Loss: 0.0525 | Val Loss: 0.2588.
+Epoch 19/40 | Train Loss: 0.0516 | Val Loss: 0.2441.
+Epoch 20/40 | Train Loss: 0.0495 | Val Loss: 0.2450.
+Epoch 21/40 | Train Loss: 0.0408 | Val Loss: 0.2284.
+Epoch 22/40 | Train Loss: 0.0384 | Val Loss: 0.2289.
+Epoch 23/40 | Train Loss: 0.0396 | Val Loss: 0.2390.
+Epoch 24/40 | Train Loss: 0.0417 | Val Loss: 0.2484.
+Epoch 25/40 | Train Loss: 0.0421 | Val Loss: 0.2439.
+Epoch 26/40 | Train Loss: 0.0330 | Val Loss: 0.2300.
+Epoch 27/40 | Train Loss: 0.0320 | Val Loss: 0.2538.
+Epoch 28/40 | Train Loss: 0.0339 | Val Loss: 0.2378.
+Epoch 29/40 | Train Loss: 0.0345 | Val Loss: 0.2446.
+Epoch 30/40 | Train Loss: 0.0395 | Val Loss: 0.2332.
+Epoch 31/40 | Train Loss: 0.0262 | Val Loss: 0.2381.
+Epoch 32/40 | Train Loss: 0.0259 | Val Loss: 0.2478.
+Epoch 33/40 | Train Loss: 0.0244 | Val Loss: 0.2352.
+Epoch 34/40 | Train Loss: 0.0275 | Val Loss: 0.2437.
+Epoch 35/40 | Train Loss: 0.0262 | Val Loss: 0.2447.
+Epoch 36/40 | Train Loss: 0.0239 | Val Loss: 0.2387.
+Epoch 37/40 | Train Loss: nan | Val Loss: nan.
+Saved best model with val loss: 0.2284
+
+Now do the prediction: 2025-03-17 08:17:45
+[Test Set] Pearson Correlation: 0.8010 (p=6.1696e-27).
+
+Split the dataset: 2025-03-17 08:17:45
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-17 08:17:48
+Epoch 1/40 | Train Loss: 0.3137 | Val Loss: 0.3060.
+Epoch 2/40 | Train Loss: 0.2669 | Val Loss: 0.2812.
+Epoch 3/40 | Train Loss: 0.2355 | Val Loss: 0.2666.
+Epoch 4/40 | Train Loss: 0.2130 | Val Loss: 0.2549.
+Epoch 5/40 | Train Loss: 0.2018 | Val Loss: 0.2592.
+Epoch 6/40 | Train Loss: 0.1770 | Val Loss: 0.2417.
+Epoch 7/40 | Train Loss: 0.1561 | Val Loss: 0.2470.
+Epoch 8/40 | Train Loss: 0.1412 | Val Loss: 0.2475.
+Epoch 9/40 | Train Loss: 0.1214 | Val Loss: 0.2351.
+Epoch 10/40 | Train Loss: 0.1081 | Val Loss: 0.2522.
+Epoch 11/40 | Train Loss: 0.1064 | Val Loss: 0.2564.
+Epoch 12/40 | Train Loss: 0.0956 | Val Loss: 0.2376.
+Epoch 13/40 | Train Loss: 0.0725 | Val Loss: 0.2362.
+Epoch 14/40 | Train Loss: 0.0748 | Val Loss: 0.2391.
+Epoch 15/40 | Train Loss: 0.0667 | Val Loss: 0.2464.
+Epoch 16/40 | Train Loss: 0.0590 | Val Loss: 0.2445.
+Epoch 17/40 | Train Loss: 0.0546 | Val Loss: 0.2412.
+Epoch 18/40 | Train Loss: 0.0493 | Val Loss: 0.2493.
+Epoch 19/40 | Train Loss: 0.0562 | Val Loss: 0.2563.
+Epoch 20/40 | Train Loss: 0.0496 | Val Loss: 0.2445.
+Epoch 21/40 | Train Loss: 0.0419 | Val Loss: 0.2327.
+Epoch 22/40 | Train Loss: 0.0405 | Val Loss: 0.2484.
+Epoch 23/40 | Train Loss: 0.0331 | Val Loss: 0.2410.
+Epoch 24/40 | Train Loss: 0.0296 | Val Loss: 0.2553.
+Epoch 25/40 | Train Loss: 0.0275 | Val Loss: 0.2487.
+Epoch 26/40 | Train Loss: 0.0278 | Val Loss: 0.2317.
+Epoch 27/40 | Train Loss: 0.0290 | Val Loss: 0.2386.
+Epoch 28/40 | Train Loss: 0.0213 | Val Loss: 0.2570.
+Epoch 29/40 | Train Loss: 0.0233 | Val Loss: 0.2519.
+Epoch 30/40 | Train Loss: 0.0267 | Val Loss: 0.2565.
+Epoch 31/40 | Train Loss: 0.0196 | Val Loss: 0.2514.
+Epoch 32/40 | Train Loss: 0.0183 | Val Loss: 0.2532.
+Epoch 33/40 | Train Loss: 0.0170 | Val Loss: 0.2582.
+Epoch 34/40 | Train Loss: 0.0177 | Val Loss: 0.2368.
+Epoch 35/40 | Train Loss: 0.0159 | Val Loss: 0.2403.
+Epoch 36/40 | Train Loss: 0.0130 | Val Loss: 0.2468.
+Epoch 37/40 | Train Loss: 0.0126 | Val Loss: 0.2411.
+Epoch 38/40 | Train Loss: 0.0150 | Val Loss: 0.2456.
+Epoch 39/40 | Train Loss: 0.0133 | Val Loss: 0.2598.
+Epoch 40/40 | Train Loss: 0.0156 | Val Loss: 0.2641.
+Saved best model with val loss: 0.2317
+
+Now do the prediction: 2025-03-17 08:48:55
+[Test Set] Pearson Correlation: 0.7797 (p=1.0223e-24).
+
+Split the dataset: 2025-03-17 08:48:56
+Number of train set: 462
+Number of test set: 116
+
+Training begin Time: 2025-03-17 08:48:58
+Epoch 1/40 | Train Loss: 0.3083 | Val Loss: 0.2923.
+Epoch 2/40 | Train Loss: 0.2564 | Val Loss: 0.2729.
+Epoch 3/40 | Train Loss: 0.2269 | Val Loss: 0.2565.
+Epoch 4/40 | Train Loss: 0.2085 | Val Loss: 0.2783.
+Epoch 5/40 | Train Loss: 0.1872 | Val Loss: 0.2704.
+Epoch 6/40 | Train Loss: 0.1704 | Val Loss: 0.2621.
+Epoch 7/40 | Train Loss: 0.1594 | Val Loss: 0.2500.
+Epoch 8/40 | Train Loss: 0.1327 | Val Loss: 0.2752.
+Epoch 9/40 | Train Loss: 0.1343 | Val Loss: 0.2543.
+Epoch 10/40 | Train Loss: 0.1120 | Val Loss: 0.2543.
+Epoch 11/40 | Train Loss: 0.1075 | Val Loss: 0.2314.
+Epoch 12/40 | Train Loss: 0.0872 | Val Loss: 0.2434.
+Epoch 13/40 | Train Loss: 0.0830 | Val Loss: 0.2489.
+Epoch 14/40 | Train Loss: 0.0735 | Val Loss: 0.2555.
+Epoch 15/40 | Train Loss: 0.0703 | Val Loss: 0.2466.
+Epoch 16/40 | Train Loss: 0.0708 | Val Loss: 0.2423.
+Epoch 17/40 | Train Loss: 0.0556 | Val Loss: 0.2529.
+Epoch 18/40 | Train Loss: 0.0515 | Val Loss: 0.2607.
+Epoch 19/40 | Train Loss: 0.0467 | Val Loss: 0.2561.
+Epoch 20/40 | Train Loss: 0.0440 | Val Loss: 0.2527.
+Epoch 21/40 | Train Loss: 0.0367 | Val Loss: 0.2577.
+Epoch 22/40 | Train Loss: 0.0373 | Val Loss: 0.2509.
+Epoch 23/40 | Train Loss: 0.0342 | Val Loss: 0.2633.
+Epoch 24/40 | Train Loss: 0.0342 | Val Loss: 0.2804.
+Epoch 25/40 | Train Loss: 0.0280 | Val Loss: 0.2614.
+Epoch 26/40 | Train Loss: 0.0345 | Val Loss: 0.2511.
+Epoch 27/40 | Train Loss: 0.0270 | Val Loss: 0.2564.
+Epoch 28/40 | Train Loss: 0.0246 | Val Loss: 0.2519.
+Epoch 29/40 | Train Loss: 0.0277 | Val Loss: 0.2405.
+Epoch 30/40 | Train Loss: 0.0244 | Val Loss: 0.2521.
+Epoch 31/40 | Train Loss: 0.0279 | Val Loss: 0.2402.
+Epoch 32/40 | Train Loss: 0.0248 | Val Loss: 0.2415.
+Epoch 33/40 | Train Loss: 0.0218 | Val Loss: 0.2586.
+Epoch 34/40 | Train Loss: 0.0199 | Val Loss: 0.2437.
+Epoch 35/40 | Train Loss: nan | Val Loss: nan.
+Saved best model with val loss: 0.2314
+
+Now do the prediction: 2025-03-17 09:16:33
+[Test Set] Pearson Correlation: 0.8256 (p=7.5341e-30).
+
+Now do the prediction: 2025-03-17 13:10:41
+[Test Set] Pearson Correlation: 0.8256 (p=7.5341e-30).
+
+Grad CAM finished.
+threshold_score_train=0.07143269764256077
+threshold_rank_train =53.0
+threshold_score_test =0.152959802260589
+threshold_rank_test  =21.80000000000001
+
+Grad CAM finished.
+threshold_score_train=0.07143269764256077
+threshold_rank_train =53.0
+threshold_score_test =0.152959802260589
+threshold_rank_test  =21.80000000000001
